@@ -26,7 +26,7 @@ class Idea extends Component {
  
   ideas = [{ id: 1, idea: 'Think a Number' },
   { id: 2, idea: 'I am Giving same number you thought!' },
-  { id: 3, idea: 'Now Your Favourite person is giving You ',ied:" take it!"},
+  { id: 3, idea: 'Now Your Favourite person is giving You ',ied:" take it! "},
   { id: 4, idea: 'Donate  half the value to government ' },
   { id: 5, idea: 'Now Give back what I gave' },
   { id: 6, idea: ' ',},
@@ -39,11 +39,11 @@ class Idea extends Component {
       this.ideas.filter(ide => ide.id === this.props.ir).map(ide => (
         <div  key={ide.id}><div className="pos">
          <Fade delay={100}>
-         <span> {ide.idea} {ide.ied}
-        {this.props.ir==3 && <span>{this.props.numb}</span>}</span>
+         <span> {ide.idea} 
+        {this.props.ir==3 && <span>{this.props.numb}</span>} {ide.ied}</span>
         </Fade>
-        {console.log(this.props.numb)}
-         </div>
+        {console.log(this.props.numb)} 
+         </div> 
         </div>)))
   }
 }
