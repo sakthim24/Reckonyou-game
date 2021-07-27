@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Reckonyou-game/static/css/main.336504a4.chunk.css",
-    "main.js": "/Reckonyou-game/static/js/main.e5824f31.chunk.js",
-    "main.js.map": "/Reckonyou-game/static/js/main.e5824f31.chunk.js.map",
+    "main.css": "/Reckonyou-game/static/css/main.0d286d5f.chunk.css",
+    "main.js": "/Reckonyou-game/static/js/main.a88034b9.chunk.js",
+    "main.js.map": "/Reckonyou-game/static/js/main.a88034b9.chunk.js.map",
     "runtime-main.js": "/Reckonyou-game/static/js/runtime-main.d76942dc.js",
     "runtime-main.js.map": "/Reckonyou-game/static/js/runtime-main.d76942dc.js.map",
     "static/css/2.3ca2e7a5.chunk.css": "/Reckonyou-game/static/css/2.3ca2e7a5.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.e3ef37fc.chunk.js.map": "/Reckonyou-game/static/js/3.e3ef37fc.chunk.js.map",
     "index.html": "/Reckonyou-game/index.html",
     "static/css/2.3ca2e7a5.chunk.css.map": "/Reckonyou-game/static/css/2.3ca2e7a5.chunk.css.map",
-    "static/css/main.336504a4.chunk.css.map": "/Reckonyou-game/static/css/main.336504a4.chunk.css.map",
+    "static/css/main.0d286d5f.chunk.css.map": "/Reckonyou-game/static/css/main.0d286d5f.chunk.css.map",
     "static/js/2.b4406af4.chunk.js.LICENSE.txt": "/Reckonyou-game/static/js/2.b4406af4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d76942dc.js",
     "static/css/2.3ca2e7a5.chunk.css",
     "static/js/2.b4406af4.chunk.js",
-    "static/css/main.336504a4.chunk.css",
-    "static/js/main.e5824f31.chunk.js"
+    "static/css/main.0d286d5f.chunk.css",
+    "static/js/main.a88034b9.chunk.js"
   ]
 }
