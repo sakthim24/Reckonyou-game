@@ -4,7 +4,6 @@ body{
   background-color: #F2DE04;
    margin: 0;  
 }
-
 @media (min-width:360px) {
   .pos{
     width: 90%;
@@ -81,6 +80,13 @@ body{
     left:30%;
     width:120px;
   } 
+}
+@media (min-width:600px) {
+  .pos{
+   
+    font-size: 35px;
+   
+  }
 }
 @media (min-width:720px) {
   .pos{
