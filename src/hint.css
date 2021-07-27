@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@600&display=swap');
+.hint{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+@media  (min-width:360px) {
+  .buthint{
+    font-size: 25px;
+    bottom: 0px;
+    left: 0px;
+    color: #0D090A;
+    position: absolute;
+    text-decoration: none;
+    font-family: 'Mali';
+    text-align: left;
+    
+    }
+    .tool{
+    padding: 5px;
+    font-size: 5px;
+    font-family:  'Mali';
+  }
+  
+  
+}
+@media  (min-width:410px) {
+  .buthint{
+    font-size: 30px;
+    bottom: 0px;
+    left: 0px;
+    color: #0D090A;
+    position: absolute;
+    text-decoration: none;
+    font-family: 'Mali';
+    text-align: left;   
+    }
+    .tool{
+    padding: 5px;
+    font-size: 5px;
+    font-family:  'Mali';
+  }
+}
+@media  (min-width:720px) {
+  .buthint{
+    font-size: 40px;
+    bottom: 0px;
+    left: 0px;
+    color: #0D090A;
+    position: absolute;
+    text-decoration: none;
+    font-family: 'Mali';
+    text-align: left;
+    }
+    .tool{
+    padding: 5px;
+    font-size: 10px;
+    font-family:  'Mali';
+  }
+}

@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,900&display=swap');
+body{
+  background-color: #F2DE04;
+   margin: 0;  
+}
+
+@media (min-width:360px) {
+  .pos{
+    width: 90%;
+    height:30%;
+    font-size: 16px;
+    color: #0D090A;
+    background-color: #F2DE04;
+    border: 2px solid #0D090A;
+    position: absolute;
+    text-decoration: none;
+    padding: 5px 5px 5px 5px;
+    font-family: 'Mali';
+    left:5%;
+    top: 30%;
+    font-weight: bolder;
+    text-align: left;
+  }
+  .but{
+    width:150px;
+    height: 35px;
+    position: fixed;
+    border: 2px solid #0D090A;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+    font-size: 16px;
+    font-weight: bolder;
+    color: #0D090A;
+    text-align: center;
+    background-color: #F2DE04;
+    font-family:  'Mali';
+    letter-spacing: 5px;
+    cursor: pointer;
+    left:50%;
+    top: 65%; 
+  }
+  .but-no{
+    width:100px;
+    left:65%
+  }
+  .but-yes{
+    left:30%;
+    width:110px;
+  }
+  .clear{
+    right: 0;bottom: 0;
+    font-size: 30px;
+    color: #0D090A;
+    position: absolute;
+    text-decoration: none;
+    font-family: 'Mali';
+    text-align: left;
+  } 
+}
+@media (min-width:400px) {
+  .pos{
+    width: 90%;
+    height:30%;
+    font-size: 25px;
+    left:5%;
+    top: 30%; 
+  }
+  .but{
+    width:180px;
+    height: 50px;
+    font-size: 20px;
+    left:50%;
+    top: 65%; 
+  }
+  .but-no{
+    width:100px;
+    left:65%
+  }
+  .but-yes{
+    left:30%;
+    width:120px;
+  } 
+}
+@media (min-width:720px) {
+  .pos{
+    width: 80%;
+    height:40%;
+    font-size: 40px;
+    font-weight: 500;
+    padding: 8px 8px 8px 8px;
+    left:10%;
+    top: 30%;
+  }
+  .but{
+    width:240px;
+    height: 65px;
+    font-size: 30px;
+    left:57%;
+    top: 80%; 
+  }
+  .but-no{
+    width:130px;
+    left:65%
+  }
+  .but-yes{
+    left:30%;
+    width:160px;
+  }
+  .clear{
+    top: 0;
+    left: 0;
+    font-size: 40px; 
+  } 
+}
+@media (min-width:900px) {
+  .pos{ 
+    font-size: 30px;
+    font-weight: normal;
+  }
+  .but{
+    left:65%;
+    top: 80%; 
+  }
+  .but-no{
+    width:130px;
+    left:65%
+  }
+  .but-yes{
+    left:30%;
+    width:160px;
+  }
+}
+@media (min-width:1200px) {
+  .pos{
+    width: 50%;
+    height:45%;
+    font-size: 40px;   
+    left:20%;
+    top: 20%;
+  } 
+  .clear{ 
+    font-size: 30px;
+    left:0;
+    font-size: 35px;
+    bottom: 90%
+  }
+  .but{
+    width:300px;
+    height: 80px;
+    padding: 10px 10px 10px 10px;
+    font-weight: 400;
+    font-size: 40px;
+    left:48%;
+    bottom: 10%;
+  }
+  .but-no{
+    width:200px;
+    left:56%
+  }
+  .but-yes{
+    left:30%;
+    width:220px;
+  }
+}  
